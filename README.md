@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm slzr</h1>
-<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at [Grenoble INP](www.grenoble-inp.fr/) , France.</h3>
+<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at [my website](url) , France.</h3>
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
 
