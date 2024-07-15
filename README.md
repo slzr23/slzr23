@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm slzr</h1>
-<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at [my website](url) , France.</h3>
+<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at Grenoble INP , France.</h3>
+
+<a href="https://www.grenoble-inp.fr/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.minalogic.com%2Fannuaire%2Fgrenoble-inp-institut-polytechnique-degrenoble%2F&psig=AOvVaw07TZbm321yyg4AYFpqZFNi&ust=1721142234544000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCqqNCoqYcDFQAAAAAdAAAAABAE" alt="grenoble_inp" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
 
