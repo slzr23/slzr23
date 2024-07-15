@@ -9,12 +9,12 @@
 
 <h3 align="left">Studies : </h3>
 <p align="left">
-<a href="https://www.grenoble-inp.fr/" target="blank"><img align="center" src="https://www.minalogic.com/wp-content/uploads/2021/07/logo-grenobleinp-334x250.png" alt="grenoble_inp" height="30" width="40" /></a>
+<a href="https://www.grenoble-inp.fr/" target="_blank"><img align="center" src="https://www.minalogic.com/wp-content/uploads/2021/07/logo-grenobleinp-334x250.png" alt="grenoble_inp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Social medias : </h3>
 <p align="left">
-<a href="https://linkedin.com/in/jules-guillaume-5b1b16242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-guillaume" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jules-guillaume-5b1b16242" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-guillaume" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
