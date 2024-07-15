@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm slzr</h1>
-<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at Grenoble INP , France.</h3><a href="https://www.grenoble-inp.fr/" target="blank"><img align="center" src="https://www.minalogic.com/wp-content/uploads/2021/07/logo-grenobleinp-334x250.png" alt="grenoble_inp" height="30" width="40" /></a>
+<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at Grenoble INP , France.</h3>
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
 
 - 👨‍💻 All of my projects are available on [my website](url)
 
 - 📫 Contact me **slzr.tech@gmail.com**
+
+<h3 align="left">Studies : </h3>
+<p align="left">
+<a href="https://www.grenoble-inp.fr/" target="blank"><img align="center" src="https://www.minalogic.com/wp-content/uploads/2021/07/logo-grenobleinp-334x250.png" alt="grenoble_inp" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Social medias : </h3>
 <p align="left">
