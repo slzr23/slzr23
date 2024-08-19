@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm slzr</h1>
+<h1 align="center"> 👋 Hi, I'm Jules</h1>
 <h3 align="center">I'm currently studying engineering by following a scientific preparatory class at Grenoble INP , France.</h3>
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
