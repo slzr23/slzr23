@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
 
-- 👨‍💻 All of my projects are available on [my website](url)
+- 👨‍💻 All of my projects are available on [my website](https://slzr.alwaysdata.net/index_fr.html)
 
 - 📫 Contact me **slzr.tech@gmail.com**
 
