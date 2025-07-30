@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Jules</h1>
-<h3 align="center">I'm currently studying engineering by following a scientific preparatory class at Grenoble INP , France.</h3>
+<h3 align="center">After following a scientific preparatory class at Grenoble INP in France, I'm currently studying engineering by following an engineering program at Mines-Telecom Lille (IMT Nord Europe)</h3>
 
 - 🌱 I’m currently learning **Maths, Physics, IT, Chemestry, ...**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Studies : </h3>
 <p align="left">
 <a href="https://www.grenoble-inp.fr/" target="_blank"><img align="center" src="https://www.minalogic.com/wp-content/uploads/2021/07/logo-grenobleinp-334x250.png" alt="grenoble_inp" height="30" width="40" /></a>
+<a href="https://imt-nord-europe.fr/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_IMT_Nord_Europe.png" alt="imt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Social medias : </h3>
