@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Jules</h1>
-<h3 align="center">Engineering Student at Mines-Télécom Lille (IMT Nord Europe) | Prepa Grenoble INP</h3>
+<h3 align="center">Engineering Student at Mines-Télécom Lille (IMT Nord Europe)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apprentice-blue?style=flat-square" alt="Focus">
