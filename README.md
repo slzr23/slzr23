@@ -18,6 +18,13 @@
 ---
 
 ### 🛠 Technical Stack
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slzr23&theme=radical" alt="GitHub Streak" height="150" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/slzr23?style=for-the-badge&color=24292e" alt="stars"/>
+  <img src="https://img.shields.io/github/repo-size/slzr23/slzr23?style=for-the-badge&color=24292e" alt="size"/>
+</p>
 
 #### **Backend & Logic**
 <p align="left">
@@ -58,9 +65,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slzr23&theme=radical" alt="GitHub Streak" height="150" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slzr23&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
